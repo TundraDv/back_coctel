@@ -1,0 +1,27 @@
+{
+  "name": "back_coctel",
+  "version": "1.0.0",
+  "description": "Backendo to host on Heroku for the game coctel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundraElie/back_coctel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tundraElie/back_coctel/issues"
+  },
+  "homepage": "https://github.com/tundraElie/back_coctel#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
